@@ -1,0 +1,15 @@
+main.c:96:1:__io_putchar	16	static
+main.c:106:6:motor_run_it	8	static
+main.c:152:5:main	8	static
+main.c:233:6:SystemClock_Config	312	static
+main.c:295:13:MX_TIM3_Init	40	static
+main.c:340:13:MX_TIM4_Init	40	static
+main.c:385:13:MX_USART1_UART_Init	8	static
+main.c:433:13:MX_GPIO_Init	40	static
+main.c:465:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:483:6:DelayUs	24	static
+main.c:512:6:testDefaultTask	24	static
+main.c:536:6:motor_control_F	16	static
+main.c:556:6:motor_control_Z	16	static
+main.c:618:6:StartDefaultTask	24	static
+main.c:650:6:Error_Handler	4	static
